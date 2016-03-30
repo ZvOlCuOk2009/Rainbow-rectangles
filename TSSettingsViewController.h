@@ -1,15 +1,14 @@
 //
-//  ViewController.h
+//  TSSettingsViewController.h
 //  Rainbow rectangles
 //
-//  Created by Mac on 24.03.16.
+//  Created by Mac on 28.03.16.
 //  Copyright © 2016 Tsvigun Alexandr. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface TSSettingsViewController : UIViewController
 
 
 @end
-
